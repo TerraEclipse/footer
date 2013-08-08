@@ -1,15 +1,16 @@
-`... project README above this point ...`
+
 
 - - -
 
-### Developed by [Terra Eclipse](http://www.terraeclipse.com)
+### Developed by [TerraEclipse](https://github.com/TerraEclipse)
+
 Terra Eclipse, Inc. is a nationally recognized political technology and
-strategy firm located in Aptos, CA and Washington, D.C.
+strategy firm located in Santa Cruz, CA and Washington, D.C.
 
 - - -
 
 ### License: MIT
-Copyright (C) 2012 Terra Eclipse, Inc. ([http://www.terraeclipse.com](http://www.terraeclipse.com))
+Copyright (C) 2013 Terra Eclipse, Inc. ([http://www.terraeclipse.com](http://www.terraeclipse.com))
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
