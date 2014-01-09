@@ -1,5 +1,4 @@
 
-
 - - -
 
 ### Developed by [TerraEclipse](https://github.com/TerraEclipse)
@@ -10,7 +9,7 @@ strategy firm located in Santa Cruz, CA and Washington, D.C.
 - - -
 
 ### License: BSD
-Copyright (C) 2013 Terra Eclipse, Inc. ([http://www.terraeclipse.com](http://www.terraeclipse.com))
+Copyright (C) 2014 Terra Eclipse, Inc. ([http://www.terraeclipse.com](http://www.terraeclipse.com))
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
